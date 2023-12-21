@@ -1,0 +1,177 @@
+[31m2023-12-18 16:05:35[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mcom.wll.authcenter.AuthCenterWebApplication[0;39m - [logStarting,50] - [36mStarting AuthCenterWebApplication using Java 21.0.1 with PID 7192 (C:\Users\hp\IdeaProjects\auth-center\auth-center-web\target\classes started by hp in C:\Users\hp\IdeaProjects\auth-center)
+[0;39m[31m2023-12-18 16:05:35[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mcom.wll.authcenter.AuthCenterWebApplication[0;39m - [logStartupProfileInfo,653] - [36mNo active profile set, falling back to 1 default profile: "default"
+[0;39m[31m2023-12-18 16:05:36[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.s.b.a.logging.ConditionEvaluationReportLogger[0;39m - [logMessage,82] - [36m
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+[0;39m[31m2023-12-18 16:07:13[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mcom.wll.authcenter.AuthCenterWebApplication[0;39m - [logStarting,50] - [36mStarting AuthCenterWebApplication using Java 21.0.1 with PID 23160 (C:\Users\hp\IdeaProjects\auth-center\auth-center-web\target\classes started by hp in C:\Users\hp\IdeaProjects\auth-center)
+[0;39m[31m2023-12-18 16:07:13[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mcom.wll.authcenter.AuthCenterWebApplication[0;39m - [logStartupProfileInfo,653] - [36mNo active profile set, falling back to 1 default profile: "default"
+[0;39m[31m2023-12-18 16:07:13[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.s.b.a.logging.ConditionEvaluationReportLogger[0;39m - [logMessage,82] - [36m
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+[0;39m[31m2023-12-18 16:14:15[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mcom.wll.authcenter.AuthCenterWebApplication[0;39m - [logStarting,50] - [36mStarting AuthCenterWebApplication using Java 21.0.1 with PID 5920 (C:\Users\hp\IdeaProjects\auth-center\auth-center-web\target\classes started by hp in C:\Users\hp\IdeaProjects\auth-center)
+[0;39m[31m2023-12-18 16:14:15[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mcom.wll.authcenter.AuthCenterWebApplication[0;39m - [logStartupProfileInfo,653] - [36mNo active profile set, falling back to 1 default profile: "default"
+[0;39m[31m2023-12-18 16:14:16[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.s.boot.web.embedded.tomcat.TomcatWebServer[0;39m - [initialize,108] - [36mTomcat initialized with port 8080 (http)
+[0;39m[31m2023-12-18 16:14:16[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35morg.apache.coyote.http11.Http11NioProtocol[0;39m - [log,173] - [36mInitializing ProtocolHandler ["http-nio-8080"]
+[0;39m[31m2023-12-18 16:14:16[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35morg.apache.catalina.core.StandardService[0;39m - [log,173] - [36mStarting service [Tomcat]
+[0;39m[31m2023-12-18 16:14:16[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35morg.apache.catalina.core.StandardEngine[0;39m - [log,173] - [36mStarting Servlet engine: [Apache Tomcat/10.1.16]
+[0;39m[31m2023-12-18 16:14:16[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.a.c.core.ContainerBase.[Tomcat].[localhost].[/][0;39m - [log,173] - [36mInitializing Spring embedded WebApplicationContext
+[0;39m[31m2023-12-18 16:14:16[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - [prepareWebApplicationContext,296] - [36mRoot WebApplicationContext: initialization completed in 1377 ms
+[0;39m[31m2023-12-18 16:14:17[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35morg.apache.catalina.core.StandardService[0;39m - [log,173] - [36mStopping service [Tomcat]
+[0;39m[31m2023-12-18 16:14:17[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.s.b.a.logging.ConditionEvaluationReportLogger[0;39m - [logMessage,82] - [36m
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+[0;39m[31m2023-12-18 16:35:54[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mcom.wll.authcenter.AuthCenterWebApplication[0;39m - [logStarting,50] - [36mStarting AuthCenterWebApplication using Java 21.0.1 with PID 17084 (C:\Users\hp\IdeaProjects\auth-center\auth-center-web\target\classes started by hp in C:\Users\hp\IdeaProjects\auth-center)
+[0;39m[31m2023-12-18 16:35:54[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mcom.wll.authcenter.AuthCenterWebApplication[0;39m - [logStartupProfileInfo,653] - [36mNo active profile set, falling back to 1 default profile: "default"
+[0;39m[31m2023-12-18 16:35:55[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.s.boot.web.embedded.tomcat.TomcatWebServer[0;39m - [initialize,108] - [36mTomcat initialized with port 8080 (http)
+[0;39m[31m2023-12-18 16:35:55[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35morg.apache.coyote.http11.Http11NioProtocol[0;39m - [log,173] - [36mInitializing ProtocolHandler ["http-nio-8080"]
+[0;39m[31m2023-12-18 16:35:55[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35morg.apache.catalina.core.StandardService[0;39m - [log,173] - [36mStarting service [Tomcat]
+[0;39m[31m2023-12-18 16:35:55[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35morg.apache.catalina.core.StandardEngine[0;39m - [log,173] - [36mStarting Servlet engine: [Apache Tomcat/10.1.16]
+[0;39m[31m2023-12-18 16:35:56[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.a.c.core.ContainerBase.[Tomcat].[localhost].[/][0;39m - [log,173] - [36mInitializing Spring embedded WebApplicationContext
+[0;39m[31m2023-12-18 16:35:56[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - [prepareWebApplicationContext,296] - [36mRoot WebApplicationContext: initialization completed in 1438 ms
+[0;39m[31m2023-12-18 16:35:56[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35morg.apache.catalina.core.StandardService[0;39m - [log,173] - [36mStopping service [Tomcat]
+[0;39m[31m2023-12-18 16:35:56[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.s.b.a.logging.ConditionEvaluationReportLogger[0;39m - [logMessage,82] - [36m
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+[0;39m[31m2023-12-18 16:42:06[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mcom.wll.authcenter.AuthCenterWebApplication[0;39m - [logStarting,50] - [36mStarting AuthCenterWebApplication using Java 21.0.1 with PID 17860 (C:\Users\hp\IdeaProjects\auth-center\auth-center-web\target\classes started by hp in C:\Users\hp\IdeaProjects\auth-center)
+[0;39m[31m2023-12-18 16:42:06[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mcom.wll.authcenter.AuthCenterWebApplication[0;39m - [logStartupProfileInfo,653] - [36mNo active profile set, falling back to 1 default profile: "default"
+[0;39m[31m2023-12-18 16:42:07[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.s.boot.web.embedded.tomcat.TomcatWebServer[0;39m - [initialize,108] - [36mTomcat initialized with port 8080 (http)
+[0;39m[31m2023-12-18 16:42:07[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35morg.apache.coyote.http11.Http11NioProtocol[0;39m - [log,173] - [36mInitializing ProtocolHandler ["http-nio-8080"]
+[0;39m[31m2023-12-18 16:42:07[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35morg.apache.catalina.core.StandardService[0;39m - [log,173] - [36mStarting service [Tomcat]
+[0;39m[31m2023-12-18 16:42:07[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35morg.apache.catalina.core.StandardEngine[0;39m - [log,173] - [36mStarting Servlet engine: [Apache Tomcat/10.1.16]
+[0;39m[31m2023-12-18 16:42:07[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.a.c.core.ContainerBase.[Tomcat].[localhost].[/][0;39m - [log,173] - [36mInitializing Spring embedded WebApplicationContext
+[0;39m[31m2023-12-18 16:42:07[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - [prepareWebApplicationContext,296] - [36mRoot WebApplicationContext: initialization completed in 1450 ms
+[0;39m[31m2023-12-18 16:42:08[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35morg.apache.catalina.core.StandardService[0;39m - [log,173] - [36mStopping service [Tomcat]
+[0;39m[31m2023-12-18 16:42:08[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.s.b.a.logging.ConditionEvaluationReportLogger[0;39m - [logMessage,82] - [36m
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+[0;39m[31m2023-12-18 16:43:12[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mcom.wll.authcenter.AuthCenterWebApplication[0;39m - [logStarting,50] - [36mStarting AuthCenterWebApplication using Java 21.0.1 with PID 16212 (C:\Users\hp\IdeaProjects\auth-center\auth-center-web\target\classes started by hp in C:\Users\hp\IdeaProjects\auth-center)
+[0;39m[31m2023-12-18 16:43:12[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mcom.wll.authcenter.AuthCenterWebApplication[0;39m - [logStartupProfileInfo,653] - [36mNo active profile set, falling back to 1 default profile: "default"
+[0;39m[31m2023-12-18 16:43:13[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.s.boot.web.embedded.tomcat.TomcatWebServer[0;39m - [initialize,108] - [36mTomcat initialized with port 8080 (http)
+[0;39m[31m2023-12-18 16:43:13[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35morg.apache.coyote.http11.Http11NioProtocol[0;39m - [log,173] - [36mInitializing ProtocolHandler ["http-nio-8080"]
+[0;39m[31m2023-12-18 16:43:13[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35morg.apache.catalina.core.StandardService[0;39m - [log,173] - [36mStarting service [Tomcat]
+[0;39m[31m2023-12-18 16:43:13[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35morg.apache.catalina.core.StandardEngine[0;39m - [log,173] - [36mStarting Servlet engine: [Apache Tomcat/10.1.16]
+[0;39m[31m2023-12-18 16:43:13[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.a.c.core.ContainerBase.[Tomcat].[localhost].[/][0;39m - [log,173] - [36mInitializing Spring embedded WebApplicationContext
+[0;39m[31m2023-12-18 16:43:13[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - [prepareWebApplicationContext,296] - [36mRoot WebApplicationContext: initialization completed in 1298 ms
+[0;39m[31m2023-12-18 16:43:14[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35morg.apache.catalina.core.StandardService[0;39m - [log,173] - [36mStopping service [Tomcat]
+[0;39m[31m2023-12-18 16:43:14[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.s.b.a.logging.ConditionEvaluationReportLogger[0;39m - [logMessage,82] - [36m
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+[0;39m[31m2023-12-18 16:44:22[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mcom.wll.authcenter.AuthCenterWebApplication[0;39m - [logStarting,50] - [36mStarting AuthCenterWebApplication using Java 21.0.1 with PID 22468 (C:\Users\hp\IdeaProjects\auth-center\auth-center-web\target\classes started by hp in C:\Users\hp\IdeaProjects\auth-center)
+[0;39m[31m2023-12-18 16:44:22[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mcom.wll.authcenter.AuthCenterWebApplication[0;39m - [logStartupProfileInfo,659] - [36mThe following 1 profile is active: "database"
+[0;39m[31m2023-12-18 16:44:24[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.s.boot.web.embedded.tomcat.TomcatWebServer[0;39m - [initialize,108] - [36mTomcat initialized with port 8080 (http)
+[0;39m[31m2023-12-18 16:44:24[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35morg.apache.coyote.http11.Http11NioProtocol[0;39m - [log,173] - [36mInitializing ProtocolHandler ["http-nio-8080"]
+[0;39m[31m2023-12-18 16:44:24[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35morg.apache.catalina.core.StandardService[0;39m - [log,173] - [36mStarting service [Tomcat]
+[0;39m[31m2023-12-18 16:44:24[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35morg.apache.catalina.core.StandardEngine[0;39m - [log,173] - [36mStarting Servlet engine: [Apache Tomcat/10.1.16]
+[0;39m[31m2023-12-18 16:44:24[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.a.c.core.ContainerBase.[Tomcat].[localhost].[/][0;39m - [log,173] - [36mInitializing Spring embedded WebApplicationContext
+[0;39m[31m2023-12-18 16:44:24[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - [prepareWebApplicationContext,296] - [36mRoot WebApplicationContext: initialization completed in 1461 ms
+[0;39m[31m2023-12-18 16:44:24[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35morg.apache.coyote.http11.Http11NioProtocol[0;39m - [log,173] - [36mStarting ProtocolHandler ["http-nio-8080"]
+[0;39m[31m2023-12-18 16:44:24[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.s.boot.web.embedded.tomcat.TomcatWebServer[0;39m - [start,221] - [36mTomcat started on port 8080 (http) with context path ''
+[0;39m[31m2023-12-18 16:44:24[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mcom.wll.authcenter.AuthCenterWebApplication[0;39m - [logStarted,56] - [36mStarted AuthCenterWebApplication in 3.183 seconds (process running for 4.556)
+[0;39m[31m2023-12-18 16:44:24[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mcom.wll.authcenter.AuthCenterWebApplication[0;39m - [main,13] - [36mauth-center启动成功，端口:8080
+[0;39m[31m2023-12-18 16:44:39[0;39m [34mINFO [0;39m [31m[http-nio-8080-exec-3][0;39m [1;35mo.a.c.core.ContainerBase.[Tomcat].[localhost].[/][0;39m - [log,173] - [36mInitializing Spring DispatcherServlet 'dispatcherServlet'
+[0;39m[31m2023-12-18 16:44:39[0;39m [34mINFO [0;39m [31m[http-nio-8080-exec-3][0;39m [1;35morg.springframework.web.servlet.DispatcherServlet[0;39m - [initServletBean,532] - [36mInitializing Servlet 'dispatcherServlet'
+[0;39m[31m2023-12-18 16:44:39[0;39m [34mINFO [0;39m [31m[http-nio-8080-exec-3][0;39m [1;35morg.springframework.web.servlet.DispatcherServlet[0;39m - [initServletBean,554] - [36mCompleted initialization in 2 ms
+[0;39m[31m2023-12-18 16:48:06[0;39m [34mINFO [0;39m [31m[SpringApplicationShutdownHook][0;39m [1;35mcom.alibaba.druid.pool.DruidDataSource[0;39m - [close,2073] - [36m{dataSource-0} closing ...
+[0;39m[31m2023-12-18 16:49:49[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mcom.wll.authcenter.AuthCenterWebApplication[0;39m - [logStarting,50] - [36mStarting AuthCenterWebApplication using Java 21.0.1 with PID 3144 (C:\Users\hp\IdeaProjects\auth-center\auth-center-web\target\classes started by hp in C:\Users\hp\IdeaProjects\auth-center)
+[0;39m[31m2023-12-18 16:49:49[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mcom.wll.authcenter.AuthCenterWebApplication[0;39m - [logStartupProfileInfo,659] - [36mThe following 1 profile is active: "database"
+[0;39m[31m2023-12-18 16:49:49[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.s.b.a.logging.ConditionEvaluationReportLogger[0;39m - [logMessage,82] - [36m
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+[0;39m[31m2023-12-18 16:55:43[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mcom.wll.authcenter.AuthCenterWebApplication[0;39m - [logStarting,50] - [36mStarting AuthCenterWebApplication using Java 21.0.1 with PID 13120 (C:\Users\hp\IdeaProjects\auth-center\auth-center-web\target\classes started by hp in C:\Users\hp\IdeaProjects\auth-center)
+[0;39m[31m2023-12-18 16:55:43[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mcom.wll.authcenter.AuthCenterWebApplication[0;39m - [logStartupProfileInfo,659] - [36mThe following 1 profile is active: "database"
+[0;39m[31m2023-12-18 16:55:43[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.s.b.a.logging.ConditionEvaluationReportLogger[0;39m - [logMessage,82] - [36m
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+[0;39m[31m2023-12-18 16:58:25[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mcom.wll.authcenter.AuthCenterWebApplication[0;39m - [logStarting,50] - [36mStarting AuthCenterWebApplication using Java 21.0.1 with PID 20616 (C:\Users\hp\IdeaProjects\auth-center\auth-center-web\target\classes started by hp in C:\Users\hp\IdeaProjects\auth-center)
+[0;39m[31m2023-12-18 16:58:25[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mcom.wll.authcenter.AuthCenterWebApplication[0;39m - [logStartupProfileInfo,659] - [36mThe following 1 profile is active: "database"
+[0;39m[31m2023-12-18 16:58:26[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.s.boot.web.embedded.tomcat.TomcatWebServer[0;39m - [initialize,108] - [36mTomcat initialized with port 8080 (http)
+[0;39m[31m2023-12-18 16:58:26[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35morg.apache.coyote.http11.Http11NioProtocol[0;39m - [log,173] - [36mInitializing ProtocolHandler ["http-nio-8080"]
+[0;39m[31m2023-12-18 16:58:26[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35morg.apache.catalina.core.StandardService[0;39m - [log,173] - [36mStarting service [Tomcat]
+[0;39m[31m2023-12-18 16:58:26[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35morg.apache.catalina.core.StandardEngine[0;39m - [log,173] - [36mStarting Servlet engine: [Apache Tomcat/10.1.16]
+[0;39m[31m2023-12-18 16:58:26[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.a.c.core.ContainerBase.[Tomcat].[localhost].[/][0;39m - [log,173] - [36mInitializing Spring embedded WebApplicationContext
+[0;39m[31m2023-12-18 16:58:26[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - [prepareWebApplicationContext,296] - [36mRoot WebApplicationContext: initialization completed in 1489 ms
+[0;39m[31m2023-12-18 16:58:27[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35morg.apache.coyote.http11.Http11NioProtocol[0;39m - [log,173] - [36mStarting ProtocolHandler ["http-nio-8080"]
+[0;39m[31m2023-12-18 16:58:27[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.s.boot.web.embedded.tomcat.TomcatWebServer[0;39m - [start,221] - [36mTomcat started on port 8080 (http) with context path ''
+[0;39m[31m2023-12-18 16:58:27[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35morg.apache.coyote.http11.Http11NioProtocol[0;39m - [log,173] - [36mStopping ProtocolHandler ["http-nio-8080"]
+[0;39m[31m2023-12-18 16:58:27[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mcom.alibaba.druid.pool.DruidDataSource[0;39m - [close,2073] - [36m{dataSource-0} closing ...
+[0;39m[31m2023-12-18 16:58:27[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.s.b.a.logging.ConditionEvaluationReportLogger[0;39m - [logMessage,82] - [36m
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+[0;39m[31m2023-12-18 17:07:11[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mcom.wll.authcenter.AuthCenterWebApplication[0;39m - [logStarting,50] - [36mStarting AuthCenterWebApplication using Java 21.0.1 with PID 7132 (C:\Users\hp\IdeaProjects\auth-center\auth-center-web\target\classes started by hp in C:\Users\hp\IdeaProjects\auth-center)
+[0;39m[31m2023-12-18 17:07:11[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mcom.wll.authcenter.AuthCenterWebApplication[0;39m - [logStartupProfileInfo,659] - [36mThe following 1 profile is active: "database"
+[0;39m[31m2023-12-18 17:07:12[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.s.boot.web.embedded.tomcat.TomcatWebServer[0;39m - [initialize,108] - [36mTomcat initialized with port 8080 (http)
+[0;39m[31m2023-12-18 17:07:12[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35morg.apache.coyote.http11.Http11NioProtocol[0;39m - [log,173] - [36mInitializing ProtocolHandler ["http-nio-8080"]
+[0;39m[31m2023-12-18 17:07:12[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35morg.apache.catalina.core.StandardService[0;39m - [log,173] - [36mStarting service [Tomcat]
+[0;39m[31m2023-12-18 17:07:12[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35morg.apache.catalina.core.StandardEngine[0;39m - [log,173] - [36mStarting Servlet engine: [Apache Tomcat/10.1.16]
+[0;39m[31m2023-12-18 17:07:12[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.a.c.core.ContainerBase.[Tomcat].[localhost].[/][0;39m - [log,173] - [36mInitializing Spring embedded WebApplicationContext
+[0;39m[31m2023-12-18 17:07:12[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - [prepareWebApplicationContext,296] - [36mRoot WebApplicationContext: initialization completed in 1566 ms
+[0;39m[31m2023-12-18 17:07:13[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35morg.apache.coyote.http11.Http11NioProtocol[0;39m - [log,173] - [36mStarting ProtocolHandler ["http-nio-8080"]
+[0;39m[31m2023-12-18 17:07:13[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.s.boot.web.embedded.tomcat.TomcatWebServer[0;39m - [start,221] - [36mTomcat started on port 8080 (http) with context path ''
+[0;39m[31m2023-12-18 17:07:13[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35morg.apache.coyote.http11.Http11NioProtocol[0;39m - [log,173] - [36mStopping ProtocolHandler ["http-nio-8080"]
+[0;39m[31m2023-12-18 17:07:13[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mcom.alibaba.druid.pool.DruidDataSource[0;39m - [close,2073] - [36m{dataSource-0} closing ...
+[0;39m[31m2023-12-18 17:07:13[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.s.b.a.logging.ConditionEvaluationReportLogger[0;39m - [logMessage,82] - [36m
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+[0;39m[31m2023-12-18 17:56:47[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mcom.wll.authcenter.AuthCenterWebApplication[0;39m - [logStarting,50] - [36mStarting AuthCenterWebApplication using Java 21.0.1 with PID 16096 (C:\Users\hp\IdeaProjects\auth-center\auth-center-web\target\classes started by hp in C:\Users\hp\IdeaProjects\auth-center)
+[0;39m[31m2023-12-18 17:56:47[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mcom.wll.authcenter.AuthCenterWebApplication[0;39m - [logStartupProfileInfo,659] - [36mThe following 1 profile is active: "database"
+[0;39m[31m2023-12-18 17:56:49[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.s.boot.web.embedded.tomcat.TomcatWebServer[0;39m - [initialize,108] - [36mTomcat initialized with port 8080 (http)
+[0;39m[31m2023-12-18 17:56:49[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35morg.apache.coyote.http11.Http11NioProtocol[0;39m - [log,173] - [36mInitializing ProtocolHandler ["http-nio-8080"]
+[0;39m[31m2023-12-18 17:56:49[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35morg.apache.catalina.core.StandardService[0;39m - [log,173] - [36mStarting service [Tomcat]
+[0;39m[31m2023-12-18 17:56:49[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35morg.apache.catalina.core.StandardEngine[0;39m - [log,173] - [36mStarting Servlet engine: [Apache Tomcat/10.1.16]
+[0;39m[31m2023-12-18 17:56:49[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.a.c.core.ContainerBase.[Tomcat].[localhost].[/][0;39m - [log,173] - [36mInitializing Spring embedded WebApplicationContext
+[0;39m[31m2023-12-18 17:56:49[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - [prepareWebApplicationContext,296] - [36mRoot WebApplicationContext: initialization completed in 1507 ms
+[0;39m[31m2023-12-18 17:56:50[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35morg.apache.coyote.http11.Http11NioProtocol[0;39m - [log,173] - [36mStarting ProtocolHandler ["http-nio-8080"]
+[0;39m[31m2023-12-18 17:56:50[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.s.boot.web.embedded.tomcat.TomcatWebServer[0;39m - [start,221] - [36mTomcat started on port 8080 (http) with context path ''
+[0;39m[31m2023-12-18 17:56:50[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35morg.apache.coyote.http11.Http11NioProtocol[0;39m - [log,173] - [36mStopping ProtocolHandler ["http-nio-8080"]
+[0;39m[31m2023-12-18 17:56:50[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mcom.alibaba.druid.pool.DruidDataSource[0;39m - [close,2073] - [36m{dataSource-0} closing ...
+[0;39m[31m2023-12-18 17:56:50[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.s.b.a.logging.ConditionEvaluationReportLogger[0;39m - [logMessage,82] - [36m
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+[0;39m[31m2023-12-18 17:57:48[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mcom.wll.authcenter.AuthCenterWebApplication[0;39m - [logStarting,50] - [36mStarting AuthCenterWebApplication using Java 21.0.1 with PID 6976 (C:\Users\hp\IdeaProjects\auth-center\auth-center-web\target\classes started by hp in C:\Users\hp\IdeaProjects\auth-center)
+[0;39m[31m2023-12-18 17:57:48[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mcom.wll.authcenter.AuthCenterWebApplication[0;39m - [logStartupProfileInfo,659] - [36mThe following 1 profile is active: "database"
+[0;39m[31m2023-12-18 17:57:50[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.s.boot.web.embedded.tomcat.TomcatWebServer[0;39m - [initialize,108] - [36mTomcat initialized with port 8080 (http)
+[0;39m[31m2023-12-18 17:57:50[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35morg.apache.coyote.http11.Http11NioProtocol[0;39m - [log,173] - [36mInitializing ProtocolHandler ["http-nio-8080"]
+[0;39m[31m2023-12-18 17:57:50[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35morg.apache.catalina.core.StandardService[0;39m - [log,173] - [36mStarting service [Tomcat]
+[0;39m[31m2023-12-18 17:57:50[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35morg.apache.catalina.core.StandardEngine[0;39m - [log,173] - [36mStarting Servlet engine: [Apache Tomcat/10.1.16]
+[0;39m[31m2023-12-18 17:57:50[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.a.c.core.ContainerBase.[Tomcat].[localhost].[/][0;39m - [log,173] - [36mInitializing Spring embedded WebApplicationContext
+[0;39m[31m2023-12-18 17:57:50[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - [prepareWebApplicationContext,296] - [36mRoot WebApplicationContext: initialization completed in 1513 ms
+[0;39m[31m2023-12-18 17:57:50[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35morg.apache.coyote.http11.Http11NioProtocol[0;39m - [log,173] - [36mStarting ProtocolHandler ["http-nio-8080"]
+[0;39m[31m2023-12-18 17:57:50[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.s.boot.web.embedded.tomcat.TomcatWebServer[0;39m - [start,221] - [36mTomcat started on port 8080 (http) with context path ''
+[0;39m[31m2023-12-18 17:57:50[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35morg.apache.coyote.http11.Http11NioProtocol[0;39m - [log,173] - [36mStopping ProtocolHandler ["http-nio-8080"]
+[0;39m[31m2023-12-18 17:57:50[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mcom.alibaba.druid.pool.DruidDataSource[0;39m - [close,2073] - [36m{dataSource-0} closing ...
+[0;39m[31m2023-12-18 17:57:51[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.s.b.a.logging.ConditionEvaluationReportLogger[0;39m - [logMessage,82] - [36m
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+[0;39m[31m2023-12-18 18:01:13[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mcom.wll.authcenter.AuthCenterWebApplication[0;39m - [logStarting,50] - [36mStarting AuthCenterWebApplication using Java 21.0.1 with PID 16728 (C:\Users\hp\IdeaProjects\auth-center\auth-center-web\target\classes started by hp in C:\Users\hp\IdeaProjects\auth-center)
+[0;39m[31m2023-12-18 18:01:13[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mcom.wll.authcenter.AuthCenterWebApplication[0;39m - [logStartupProfileInfo,659] - [36mThe following 1 profile is active: "database"
+[0;39m[31m2023-12-18 18:01:15[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.s.boot.web.embedded.tomcat.TomcatWebServer[0;39m - [initialize,108] - [36mTomcat initialized with port 8080 (http)
+[0;39m[31m2023-12-18 18:01:15[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35morg.apache.coyote.http11.Http11NioProtocol[0;39m - [log,173] - [36mInitializing ProtocolHandler ["http-nio-8080"]
+[0;39m[31m2023-12-18 18:01:15[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35morg.apache.catalina.core.StandardService[0;39m - [log,173] - [36mStarting service [Tomcat]
+[0;39m[31m2023-12-18 18:01:15[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35morg.apache.catalina.core.StandardEngine[0;39m - [log,173] - [36mStarting Servlet engine: [Apache Tomcat/10.1.16]
+[0;39m[31m2023-12-18 18:01:15[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.a.c.core.ContainerBase.[Tomcat].[localhost].[/][0;39m - [log,173] - [36mInitializing Spring embedded WebApplicationContext
+[0;39m[31m2023-12-18 18:01:15[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - [prepareWebApplicationContext,296] - [36mRoot WebApplicationContext: initialization completed in 1619 ms
+[0;39m[31m2023-12-18 18:01:16[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35morg.apache.coyote.http11.Http11NioProtocol[0;39m - [log,173] - [36mStarting ProtocolHandler ["http-nio-8080"]
+[0;39m[31m2023-12-18 18:01:16[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.s.boot.web.embedded.tomcat.TomcatWebServer[0;39m - [start,221] - [36mTomcat started on port 8080 (http) with context path ''
+[0;39m[31m2023-12-18 18:01:16[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mcom.wll.authcenter.AuthCenterWebApplication[0;39m - [logStarted,56] - [36mStarted AuthCenterWebApplication in 3.699 seconds (process running for 4.742)
+[0;39m[31m2023-12-18 18:01:16[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mcom.wll.authcenter.AuthCenterWebApplication[0;39m - [main,14] - [36mauth-center启动成功，端口:8080
+[0;39m[31m2023-12-18 18:01:51[0;39m [34mINFO [0;39m [31m[http-nio-8080-exec-2][0;39m [1;35mo.a.c.core.ContainerBase.[Tomcat].[localhost].[/][0;39m - [log,173] - [36mInitializing Spring DispatcherServlet 'dispatcherServlet'
+[0;39m[31m2023-12-18 18:01:51[0;39m [34mINFO [0;39m [31m[http-nio-8080-exec-2][0;39m [1;35morg.springframework.web.servlet.DispatcherServlet[0;39m - [initServletBean,532] - [36mInitializing Servlet 'dispatcherServlet'
+[0;39m[31m2023-12-18 18:01:51[0;39m [34mINFO [0;39m [31m[http-nio-8080-exec-2][0;39m [1;35morg.springframework.web.servlet.DispatcherServlet[0;39m - [initServletBean,554] - [36mCompleted initialization in 1 ms
+[0;39m[31m2023-12-18 18:04:01[0;39m [34mINFO [0;39m [31m[SpringApplicationShutdownHook][0;39m [1;35mcom.alibaba.druid.pool.DruidDataSource[0;39m - [close,2073] - [36m{dataSource-0} closing ...
+[0;39m[31m2023-12-18 18:04:11[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mcom.wll.authcenter.AuthCenterWebApplication[0;39m - [logStarting,50] - [36mStarting AuthCenterWebApplication using Java 21.0.1 with PID 8172 (C:\Users\hp\IdeaProjects\auth-center\auth-center-web\target\classes started by hp in C:\Users\hp\IdeaProjects\auth-center)
+[0;39m[31m2023-12-18 18:04:11[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mcom.wll.authcenter.AuthCenterWebApplication[0;39m - [logStartupProfileInfo,659] - [36mThe following 1 profile is active: "database"
+[0;39m[31m2023-12-18 18:04:13[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.s.boot.web.embedded.tomcat.TomcatWebServer[0;39m - [initialize,108] - [36mTomcat initialized with port 8080 (http)
+[0;39m[31m2023-12-18 18:04:13[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35morg.apache.coyote.http11.Http11NioProtocol[0;39m - [log,173] - [36mInitializing ProtocolHandler ["http-nio-8080"]
+[0;39m[31m2023-12-18 18:04:13[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35morg.apache.catalina.core.StandardService[0;39m - [log,173] - [36mStarting service [Tomcat]
+[0;39m[31m2023-12-18 18:04:13[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35morg.apache.catalina.core.StandardEngine[0;39m - [log,173] - [36mStarting Servlet engine: [Apache Tomcat/10.1.16]
+[0;39m[31m2023-12-18 18:04:13[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.a.c.core.ContainerBase.[Tomcat].[localhost].[/][0;39m - [log,173] - [36mInitializing Spring embedded WebApplicationContext
+[0;39m[31m2023-12-18 18:04:13[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - [prepareWebApplicationContext,296] - [36mRoot WebApplicationContext: initialization completed in 1260 ms
+[0;39m[31m2023-12-18 18:04:13[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35morg.apache.coyote.http11.Http11NioProtocol[0;39m - [log,173] - [36mStarting ProtocolHandler ["http-nio-8080"]
+[0;39m[31m2023-12-18 18:04:13[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.s.boot.web.embedded.tomcat.TomcatWebServer[0;39m - [start,221] - [36mTomcat started on port 8080 (http) with context path ''
+[0;39m[31m2023-12-18 18:04:13[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mcom.wll.authcenter.AuthCenterWebApplication[0;39m - [logStarted,56] - [36mStarted AuthCenterWebApplication in 2.772 seconds (process running for 4.112)
+[0;39m[31m2023-12-18 18:04:13[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mcom.wll.authcenter.AuthCenterWebApplication[0;39m - [main,14] - [36mauth-center启动成功，端口:8080
+[0;39m[31m2023-12-18 18:04:23[0;39m [34mINFO [0;39m [31m[http-nio-8080-exec-2][0;39m [1;35mo.a.c.core.ContainerBase.[Tomcat].[localhost].[/][0;39m - [log,173] - [36mInitializing Spring DispatcherServlet 'dispatcherServlet'
+[0;39m[31m2023-12-18 18:04:23[0;39m [34mINFO [0;39m [31m[http-nio-8080-exec-2][0;39m [1;35morg.springframework.web.servlet.DispatcherServlet[0;39m - [initServletBean,532] - [36mInitializing Servlet 'dispatcherServlet'
+[0;39m[31m2023-12-18 18:04:23[0;39m [34mINFO [0;39m [31m[http-nio-8080-exec-2][0;39m [1;35morg.springframework.web.servlet.DispatcherServlet[0;39m - [initServletBean,554] - [36mCompleted initialization in 1 ms
+[0;39m[31m2023-12-18 18:04:48[0;39m [34mINFO [0;39m [31m[SpringApplicationShutdownHook][0;39m [1;35mcom.alibaba.druid.pool.DruidDataSource[0;39m - [close,2073] - [36m{dataSource-0} closing ...
+[0;39m

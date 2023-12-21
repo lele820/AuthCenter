@@ -1,0 +1,11 @@
+[31m2023-12-15 17:49:58[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mcom.wll.authcenter.AuthCenterWebApplication[0;39m - [logStarting,50] - [36mStarting AuthCenterWebApplication using Java 21.0.1 with PID 18712 (C:\Users\hp\IdeaProjects\auth-center\auth-center-web\target\classes started by hp in C:\Users\hp\IdeaProjects\auth-center)
+[0;39m[31m2023-12-15 17:49:58[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mcom.wll.authcenter.AuthCenterWebApplication[0;39m - [logStartupProfileInfo,653] - [36mNo active profile set, falling back to 1 default profile: "default"
+[0;39m[31m2023-12-15 17:49:59[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.s.b.a.logging.ConditionEvaluationReportLogger[0;39m - [logMessage,82] - [36m
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+[0;39m[31m2023-12-15 17:55:41[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mcom.wll.authcenter.AuthCenterWebApplication[0;39m - [logStarting,50] - [36mStarting AuthCenterWebApplication using Java 21.0.1 with PID 23372 (C:\Users\hp\IdeaProjects\auth-center\auth-center-web\target\classes started by hp in C:\Users\hp\IdeaProjects\auth-center)
+[0;39m[31m2023-12-15 17:55:41[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mcom.wll.authcenter.AuthCenterWebApplication[0;39m - [logStartupProfileInfo,653] - [36mNo active profile set, falling back to 1 default profile: "default"
+[0;39m[31m2023-12-15 17:55:42[0;39m [34mINFO [0;39m [31m[main][0;39m [1;35mo.s.b.a.logging.ConditionEvaluationReportLogger[0;39m - [logMessage,82] - [36m
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+[0;39m
