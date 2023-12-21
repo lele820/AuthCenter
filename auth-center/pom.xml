@@ -36,6 +36,7 @@
             <scope>test</scope>
         </dependency>
 
+        <!--解决lombok1.16.22不兼容springboot3.2.0和jdk21的问题，lombok版本升级到1.18.30-->
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
